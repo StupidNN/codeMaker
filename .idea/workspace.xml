@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a648f12-e1c6-4277-8043-424c593a08bb" name="Default" comment="" />
+    <list default="true" id="0a648f12-e1c6-4277-8043-424c593a08bb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/新建文本文档.txt" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,8 +39,8 @@
       <file leaf-file-name="daoXMLTemplate.ftl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/template/suiTemplate/daoXMLTemplate.ftl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="89" column="8" lean-forward="true" selection-start-line="89" selection-start-column="8" selection-end-line="89" selection-end-column="8" />
+            <state relative-caret-position="1691">
+              <caret line="89" column="8" selection-start-line="89" selection-start-column="8" selection-end-line="89" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -45,8 +48,8 @@
       <file leaf-file-name="CodeGeneratorAction.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/entry/CodeGeneratorAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="93">
+              <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -126,6 +129,9 @@
       <replace>setSelected</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -176,39 +182,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="codeMaker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeMaker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeMaker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeMaker" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeMaker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeMaker" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeMaker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeMaker" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeMaker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="idea-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idea-" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -327,38 +314,39 @@
       <workItem from="1542188677067" duration="109000" />
       <workItem from="1542649609388" duration="228000" />
       <workItem from="1544374287841" duration="280000" />
+      <workItem from="1544374724480" duration="507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24494000" />
+    <option name="totallyTimeSpent" value="25001000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32864866" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32792208" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="9" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3293011" />
-      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20788912" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21002132" />
       <window_info anchor="right" id="Database" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="7" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.32972974" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.32900432" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -370,28 +358,28 @@
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Run" order="7" />
       <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="5" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Debug" order="8" visible="true" weight="0.39919356" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Debug" order="8" visible="true" weight="0.39919356" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
-      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="bottom" id="Messages" order="4" weight="0.3293011" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info id="Favorites" order="4" side_tool="true" />
@@ -765,15 +753,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/template/suiTemplate/daoXMLTemplate.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="89" column="8" lean-forward="true" selection-start-line="89" selection-start-column="8" selection-end-line="89" selection-end-column="8" />
+        <state relative-caret-position="1691">
+          <caret line="89" column="8" selection-start-line="89" selection-start-column="8" selection-end-line="89" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/entry/CodeGeneratorAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="93">
+          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
         </state>
       </provider>
     </entry>
