@@ -1,0 +1,36 @@
+<idea-plugin>
+    <id>2.0</id>
+    <name>codeMaker</name>
+    <version>2.0</version>
+    <vendor email="631871336@qq.com">张大海</vendor>
+
+    <description><![CDATA[
+      Enter short description for your plugin here.<br>
+      <em>most HTML tags may be used</em>
+    ]]></description>
+
+    <change-notes><![CDATA[
+      Add change notes here.<br>
+      <em>most HTML tags may be used</em>
+    ]]>
+    </change-notes>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <!-- uncomment to enable plugin in all products
+    <depends>com.intellij.modules.lang</depends>
+    -->
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+        <action class="com.entry.CodeGeneratorAction" id="main" text="生成代码3.1">
+            <add-to-group group-id="WindowMenu" anchor="first"/>
+        </action>
+    </actions>
+
+</idea-plugin>
